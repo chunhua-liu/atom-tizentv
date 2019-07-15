@@ -1,0 +1,71 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "label": "Tizen SDK",
+        "submenu": [
+          {
+            "label": "Create Project",
+            "command": "tizen-SDK:createProject"
+          },
+          {
+            "label": "Build Package",
+            "command": "tizen-SDK:buildPackage"
+          },
+          {
+            "label": "Run Application",
+            "command": "tizen-SDK:runApplication"
+          },
+          {
+            "label": "Debug Application",
+            "command": "tizen-SDK:debugApplication"
+          },
+          {
+            "label": "Certificate Manager",
+            "command": "tizen-SDK:certificateManager"
+          },
+          {
+            "label": "SDB Command Prompt",
+            "command": "tizen-SDK:SDBCommandPrompt"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Tizen SDK",
+          "submenu": [
+            {
+              "label": "Create Project",
+              "command": "tizen-SDK:createProject"
+            },
+            {
+              "label": "Build Package",
+              "command": "tizen-SDK:buildPackage"
+            },
+            {
+              "label": "Run Application",
+              "command": "tizen-SDK:runApplication"
+            },
+            {
+              "label": "Debug Application",
+              "command": "tizen-SDK:debugApplication"
+            },
+            {
+              "label": "Certificate Manager",
+              "command": "tizen-SDK:certificateManager"
+            },
+            {
+              "label": "SDB Command Prompt",
+              "command": "tizen-SDK:SDBCommandPrompt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

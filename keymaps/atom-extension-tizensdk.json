@@ -1,0 +1,9 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "atom-extension-tizensdk:toggle"
+  },
+  "atom-panel .native-key-bindings": {
+    "tab": "unset!",
+    "shift-tab": "unset!"
+  }
+}

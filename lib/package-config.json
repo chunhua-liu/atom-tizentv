@@ -1,0 +1,103 @@
+{
+    "tizentv.workspaceSetting.setAsDefault": {
+        "type": "boolean",
+        "default": false,
+        "description": "Set your workspace to store your projects"
+    },
+    "tizentv.workspaceSetting.directory": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": null,
+        "description": "Set your workspace to store your projects"
+    },
+    "tizentv.targetDeviceAddress": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "255.255.255.255:26101",
+        "description": "Set the TV IP to connect, default remote port is 26101."
+    },
+    "tizentv.simulatorLocation": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": null,
+        "description": "Set the location of simulator-executable, eg: c:\\\\tizen-studio\\\\tools\\\\sec-tv-simulator(win) or /home/tizen-studio/sec-tv-simulator(linux/macOS)."
+    },
+    "tizentv.tizenStudioLocation": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": null,
+        "description": "Set the location of Tizen Studio, eg: c:\\\\tizen-studio (win) or /home/tizen-studio(linux/macOS)."
+    },
+    "tizentv.chromeExecutable": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": null,
+        "description": "Set the location of chrome-executable, eg: C:\\Program Files\\Chrome\\chrome.exe (win) or /opt/google/chrome/google-chrome(linux/macOS)."
+    },
+    "tizentv.logLevel": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "INFO",
+        "description": "Select log print level: INFO, WARNING, ERROR, FATAL, default is INFO."
+    },
+    "tizentv.certificateManager.Country": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "",
+        "description": "(Optional) Country code for creating author certificate, eg: KR."
+    },
+    "tizentv.certificateManager.State": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "",
+        "description": "(Optional) State info for creating author certificate."
+    },
+    "tizentv.certificateManager.City": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "",
+        "description": "(Optional) City info for creating author certificate."
+    },
+    "tizentv.certificateManager.Orgnaization": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "",
+        "description": "(Optional) Organization info for creating author certificate."
+    },
+    "tizentv.certificateManager.Department": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "",
+        "description": "(Optional) Department info for creating author certificate."
+    },
+    "tizentv.certificateManager.Email": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": "",
+        "description": "(Optional) Email info for creating author certificate."
+    }
+}

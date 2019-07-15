@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Overview version="1.0">
+  <SampleName>Empty</SampleName>
+  <SampleVersion>1.0</SampleVersion>
+   <PlatformList>
+     <Profile>
+        <ProfileName>tv-samsung</ProfileName>
+        <RequiredVersion>2.3</RequiredVersion>
+     </Profile>
+  </PlatformList>
+   <ProjectType>TIZEN</ProjectType>
+  <HasOption>False</HasOption>
+  <CategoryList>
+       <Category>Template</Category>
+  </CategoryList>
+  <PreviewList>
+       <Preview>empty.png</Preview>
+  </PreviewList>
+  <IconSet>
+    <IconSmall>ic_s_empty.png</IconSmall>
+    <IconMediumNormal>ic_m_empty_n.png</IconMediumNormal>
+    <IconMediumSelect>ic_m_empty_s.png</IconMediumSelect>
+    <IconLarge>ic_l_empty.png</IconLarge>
+  </IconSet>
+  <Description>
+    An empty project.
+  </Description>
+</Overview>

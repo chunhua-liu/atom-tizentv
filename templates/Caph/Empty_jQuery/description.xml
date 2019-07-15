@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Overview version="1.0">
+  <SampleName>Caph-Empty Template for jQuery</SampleName>
+  <SampleVersion>3.1</SampleVersion>
+   <PlatformList>
+     <Profile>
+        <ProfileName>tv-samsung</ProfileName>
+        <RequiredVersion>2.3</RequiredVersion>
+     </Profile>
+  </PlatformList>
+   <ProjectType>CAPH</ProjectType>
+  <HasOption>False</HasOption>
+  <CategoryList>
+       <Category>Template</Category>
+  </CategoryList>
+  <PreviewList>
+       <Preview>empty.png</Preview>
+  </PreviewList>
+  <IconSet>
+    <IconSmall>ic_s_jquery_template.png</IconSmall>
+    <IconMediumNormal>ic_m_jquery_template_n.png</IconMediumNormal>
+    <IconMediumSelect>ic_m_jquery_template_s.png</IconMediumSelect>
+    <IconLarge>ic_l_jquery_template.png</IconLarge>
+  </IconSet>
+  <Description>
+	An empty template of Caph 3.1 Framework.
+  </Description>
+</Overview>
