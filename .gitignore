@@ -7,6 +7,9 @@
 
 # testing
 /coverage
+/resource/decrypt.js
+/resource/encrypt.js
+package-lock.json
 
 # production
 /build
