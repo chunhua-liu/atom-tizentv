@@ -51,53 +51,5 @@
         ],
         "default": "INFO",
         "description": "Select log print level: INFO, WARNING, ERROR, FATAL, default is INFO."
-    },
-    "tizentv.certificateManager.Country": {
-        "type": [
-            "string",
-            "null"
-        ],
-        "default": "",
-        "description": "(Optional) Country code for creating author certificate, eg: KR."
-    },
-    "tizentv.certificateManager.State": {
-        "type": [
-            "string",
-            "null"
-        ],
-        "default": "",
-        "description": "(Optional) State info for creating author certificate."
-    },
-    "tizentv.certificateManager.City": {
-        "type": [
-            "string",
-            "null"
-        ],
-        "default": "",
-        "description": "(Optional) City info for creating author certificate."
-    },
-    "tizentv.certificateManager.Orgnaization": {
-        "type": [
-            "string",
-            "null"
-        ],
-        "default": "",
-        "description": "(Optional) Organization info for creating author certificate."
-    },
-    "tizentv.certificateManager.Department": {
-        "type": [
-            "string",
-            "null"
-        ],
-        "default": "",
-        "description": "(Optional) Department info for creating author certificate."
-    },
-    "tizentv.certificateManager.Email": {
-        "type": [
-            "string",
-            "null"
-        ],
-        "default": "",
-        "description": "(Optional) Email info for creating author certificate."
     }
 }
